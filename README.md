@@ -1,3 +1,3 @@
 # infinite-Scroll
 
-## A Website replica to instagram , implemented an infinite scroll feature 
+### A Website replica of instagram , implemented an infinite scroll feature 
